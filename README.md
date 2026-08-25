@@ -2,5 +2,5 @@
 
 **Ziele**
 - [x] In Github einloggen  
-- [ ] Weiter arbeiten (tagesprogramm)
-- [ ] Pause machen
+- [x] Weiter arbeiten (tagesprogramm)
+- [x] Pause machen
